@@ -1,3 +1,5 @@
+# Explain what each variable stands for
+
 FIELD   POSITION  TYPE   DESCRIPTION
 
 STN---  1-6       Int.   Station number (WMO/DATSAV3 number)
